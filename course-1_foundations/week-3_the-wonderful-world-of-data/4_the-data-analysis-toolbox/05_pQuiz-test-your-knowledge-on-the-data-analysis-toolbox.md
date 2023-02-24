@@ -8,7 +8,7 @@
 
   Choose a topic for data analysis
   
-  
+
 2. Fill in the blank: A set of instructions that performs a specific calculation using spreadsheet data is called _____.
 
   a report
@@ -27,7 +27,7 @@
   False
   
   
- 4. In data analytics, SQL is an acronym meaning _____ query language.
+4. In data analytics, SQL is an acronym meaning _____ query language.
 
     statistical
 
@@ -37,7 +37,7 @@
 
   ✔ structured
   
-  
+
 5. What is the term for the graphical representation of data?
 
   Data collection
