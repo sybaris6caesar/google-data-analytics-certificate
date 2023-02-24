@@ -1,0 +1,1 @@
+And finally, the last step of the data life cycle, the destroy phase. Yes, it sounds sad, but when you destroy data, it won't hurt a bit. This is important for protecting a company's private information, as well as private data about its customers.
