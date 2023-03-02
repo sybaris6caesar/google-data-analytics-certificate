@@ -26,13 +26,13 @@ The destroy stage of the data life cycle might involve shredding paper files or 
 
 3. A data analyst uses a spreadsheet function to aggregate data. Then, they add a pivot table to show totals from least to greatest. This would happen during which stage of the data life cycle?
 
-Manage
+ ✖ Manage
 
-Capture
+ Capture
 
-Plan
+ Plan
 
-Analyze
+ Analyze
 
 Incorrect
 Review the video on the data life cycle for a refresher.
