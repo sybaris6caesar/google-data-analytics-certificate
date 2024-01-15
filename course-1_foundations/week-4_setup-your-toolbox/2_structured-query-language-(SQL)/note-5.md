@@ -1,0 +1,1 @@
+A query is a request for data or information from a database.
