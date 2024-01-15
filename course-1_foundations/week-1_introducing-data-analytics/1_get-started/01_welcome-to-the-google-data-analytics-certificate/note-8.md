@@ -1,0 +1,3 @@
+The excellence of an analyst is speed.
+
+How quickly can you surf through vast amounts of data to explore it and discover the gems, the beautiful potential insights that are worth knowing about and bringing to your decision-makers? Are you excited by the ambiguity of exploration? Are you excited by the idea of working on a lot of different things, looking at a lot of different data sources, and thinking through vast amounts of information, while promising not to snooze past the important potential insights? Are you okay being told, "Here is a whole lot of data. Go find something interesting"? Do you thrive on creative, open-ended projects? If that's you, then analytics is probably the best fit for you.
