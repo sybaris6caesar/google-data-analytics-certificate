@@ -1,0 +1,1 @@
+For two tables to have a relationship, one or more of the same fields must exist inside both tables.

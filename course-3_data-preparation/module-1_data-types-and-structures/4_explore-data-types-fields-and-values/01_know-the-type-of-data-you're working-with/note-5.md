@@ -1,0 +1,1 @@
+A data type is a specific kind of data attribute that tells what kind of value the data is.

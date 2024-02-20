@@ -1,0 +1,1 @@
+We found that if the data set is reliable, original, comprehensive, current and cited, it ROCCCs (or more seriously: it's good).
